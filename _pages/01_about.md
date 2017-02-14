@@ -6,7 +6,8 @@ permalink: /about/
 
 I am currently a Graduate Student at the University of Massachusetts Amherst, pursuing a Masters Degree in Computer Science.
 
-I am actively searching for participating in Internships for Summer 2017. You can view my Resume [here](../Resume/)
+<!-- I am actively searching for participating in Internships for Summer 2017. You can view my Resume [here](../Resume/) -->
+I am actively searching for participating in Internships for Summer 2017. You can view my Resume <a href="../Resume/Nishit_Parekh_Resume.pdf">here.</a>
 
 Follow the links below to other facets of my online presence:
 
