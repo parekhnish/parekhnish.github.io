@@ -15,3 +15,5 @@ Follow the links below to other facets of my online presence:
 * [LinkedIN](https://www.linkedin.com/in/nishit-parekh)
 * [Facebook](https://www.facebook.com/parekhnish)
 * [Twitter](https://www.twitter.com/parekhnish)
+
+My public key is accessed <a href="../public.asc">here</a>.
