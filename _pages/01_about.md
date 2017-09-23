@@ -15,5 +15,3 @@ Follow the links below to other facets of my online presence:
 <a href="https://www.twitter.com/parekhnish"><img src="../Images/Logos/twitter.png" alt="My Twitter Profile" width="64"/></a>
 <a href="https://www.linkedin.com/in/nishit-parekh"><img src="../Images/Logos/linkedin.png" alt="My LinkedIn Profile" width="64"/></a>
 <a href="https://www.facebook.com/parekhnish"><img src="../Images/Logos/facebook.png" alt="My Facebook Profile" width="64"/></a>
-
-My public key is accessed <a href="../public.asc">here</a>.
