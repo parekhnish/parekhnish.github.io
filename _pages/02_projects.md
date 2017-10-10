@@ -4,7 +4,15 @@ title: Projects
 permalink: /projects/
 ---
 
-_(This page is being updated)_
+### Real-Time Scoreboard Detection and Recognition in Sporting Event Videos
+
+<img src="../Images/scoreboard_1.png" alt="Activity Recognition" width="75%"/>
+<br>
+<img src="../Images/scoreboard_2.png" alt="Activity Recognition" width="100%"/>
+
+_Internship Project, Gracenote (Summer 2017)_
+
+I designed a system to extract team scores and game clock information from videos of sporting events in real-time. The system was built to be robust to occlusions, ad-breaks, and sudden changes in game scenarios. The detector worked on a variety of sporting event videos (Basketball, Hockey, Baseball etc.) on a range of sources and their custom scoreboards (ESPN, YouTube, Fox Sports etc.).
 
 <br>
 
@@ -23,7 +31,7 @@ We built an activity recognition system to classify actions performed by Volleyb
 
 ### TMMS in Colour Images
 
-<img src="../Images/tmms_img_2.png" alt="Using colure-based TMMS to improve Text Segmentation" width="75%"/>
+<img src="../Images/tmms_img_2.png" alt="Using colour-based TMMS to improve Text Segmentation" width="75%"/>
 <img src="../Images/tmms_img_1.png" alt="Using colour-based TMMS to improve Text Segmentation" width="75%"/>
 
 _Research Project, LRDE, EPITA (Summer 2015)_
