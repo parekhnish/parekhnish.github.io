@@ -4,10 +4,9 @@ title: About
 permalink: /about/
 ---
 
-I am currently a Graduate Student at the University of Massachusetts Amherst, pursuing a Masters Degree in Computer Science.
+I am currently a Machine Learning and Computer Vision Engineer at <a href="http://www.eyenuk.com/" target="_blank">Eyenuk</a>. We develop state-of-the-art AI software that helps in diagnosing Diabetic Retinopathy, the leading cause of blindness in middle-aged people around the world.
 
-<!-- I am actively searching for participating in Internships for Summer 2017. You can view my Resume [here](../Resume/) -->
-I am actively searching for full-time offers starting Summer 2018. My primary interests lie in Image Processing and Computer Vision. For a detailed look, please refer to my Resume <a href="https://www.dropbox.com/s/n6778yfjp6zbiky/Nishit_Parekh_Resume.pdf" target="_blank">here</a>.
+As is obvious from my job description, my primary interests lie in Image Processing and Computer Vision. For a detailed look, please refer to my Resume <a href="https://www.dropbox.com/s/n6778yfjp6zbiky/Nishit_Parekh_Resume.pdf" target="_blank">here</a>.
 
 Follow the links below to other facets of my online presence:
 
