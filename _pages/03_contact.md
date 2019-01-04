@@ -4,6 +4,9 @@ title: Contact
 permalink: /contact/
 ---
 
+<!--  -->
+<!-- Adopted from http://www.grall.name/posts/1/onlineTools_obfuscation.html -->
+<!--  -->
 <script language="Javascript" type="text/Javascript">
     function decrypt(origin, size, key, word) {
       var s = 0
@@ -26,12 +29,12 @@ permalink: /contact/
       return d;
     };
 
-    var orig1 = 46, orig2 = 44;
-    var size1 = 81, size2 = 83;
-    var key1 = "youl" + "lnev" + "erwa" + "lkal" + "one";
+    var orig1 = 38, orig2 = 44;
+    var size1 = 84, size2 = 83;
+    var key1 = "mone" + "yint" + "heba" + "nana" + "stand";
     var key2 = "par" + "esh" + "aan";
-    var word1 = ":Silb" + "\\GjY" + "r]FbZ" + "RNbTQ" + "b";
-    var word2 = "ZU[y[V" + "CK[rEb" + "SdJTGZ" + "YP";
+    var word1 = "[^hm" + "oPf_" + "YS(L" + "mLb\\" + "d(Jc" + "Wa^g";
+    var word2 = "ZU[y[" + "VCK[r" + "EbSdJ" + "TGZYP";
 
     document.write("For official purposes, please use: " + decrypt(orig1,size1,key1,word1) + "<br>" +
                    "For personal purposes, please use: " + decrypt(orig2,size2,key2,word2))
