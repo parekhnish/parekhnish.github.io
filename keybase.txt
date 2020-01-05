@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/parekhnish
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://parekhnish.github.io
+  * I am parekhnish (https://keybase.io/parekhnish) on keybase.
+  * I have a public key ASDMZWsBEh_uWSxkC_kyPAXpnj9Fpz5gm-L3ktyx73EAKgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01013752ba0fd905dcc9fcd651d6d8640b8c491443dadff05a691fa1ae9f95860ff70a",
+      "host": "keybase.io",
+      "kid": "0120cc656b01121fee592c640bf9323c05e99e3f45a73e609be2f792dcb1ef71002a0a",
+      "uid": "d28f3d0794869a24e6e5e93384dddf19",
+      "username": "parekhnish"
+    },
+    "merkle_root": {
+      "ctime": 1578209538,
+      "hash": "dc40f6c550a5cfaed8901b69765eb663179e81a3fac4e8f043fa83ed59777e0879e873708a27dfcbb55d59ad88e23294e6f26d7d5473ec94f5792a5d825c27f6",
+      "hash_meta": "c5f39dfaa335136aa244d9b89d7ba54449fe1533b27f76e25a46ec3ae7c803f0",
+      "seqno": 14089622
+    },
+    "service": {
+      "entropy": "RNijPf5sprXe6wSrgCQFwOFU",
+      "hostname": "parekhnish.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.1.1"
+  },
+  "ctime": 1578209548,
+  "expire_in": 504576000,
+  "prev": "800e143a38d8b7fbc1a40bb9400cda9f5423c061ac6ddd1242c9b9fd061a9066",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgzGVrARIf7lksZAv5MjwF6Z4/Rac+YJvi95Lcse9xACoKp3BheWxvYWTESpcCEsQggA4UOjjYt/vBpAu5QAzan1QjwGGsbd0SQsm5/QYakGbEIHdt3Izke+kIKIVFHJ1/UFSSyB8F6Bl8sueG9FrznaAhAgHCo3NpZ8RA0RDBLYGcjEGciyLsnMgfKAnvNvkbsRuBNYPVbIVXwZK704KzpyJG2QEmw0lWl0MIEvyuUEgbVdRRETRadLgwBahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIL3cRyqG2ci47Ezd3MSkdh6kxDsunWOUdt45u/fa7XDlo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/parekhnish
+
+==================================================================
