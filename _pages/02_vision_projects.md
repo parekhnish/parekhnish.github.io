@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Projects
-permalink: /projects/
+title: Vision-Projects
+permalink: /vision_projects/
 ---
 
 ### Real-Time Scoreboard Detection and Recognition in Sporting Event Videos
@@ -23,7 +23,7 @@ I designed a system to extract team scores and game clock information from video
 
 _Course Project, Computer Vision (Fall 2016)_
 
-We built an activity recognition system to classify actions performed by Volleyball players during a match, by leveraging views from an on-court camera and available training data for 6 classes of actions ("serve", "smash", "block" etc). We used two approaches for the problem: One using hand-crafted Optical Flow and HoG features classified using an SVM, and another approach using a CNN on raw frames.  
+We built an activity recognition system to classify actions performed by Volleyball players during a match, by leveraging views from an on-court camera and available training data for 6 classes of actions ("serve", "smash", "block" etc). We used two approaches for the problem: One using hand-crafted Optical Flow and HoG features classified using an SVM, and another approach using a CNN on raw frames.
 
 - <a href="https://www.dropbox.com/s/p6kdkfh5abn2kyy/Activity_Detection_in_Sports_Video.pdf" target="_blank">Project Report</a>
 
