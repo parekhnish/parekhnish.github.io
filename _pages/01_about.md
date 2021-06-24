@@ -4,9 +4,11 @@ title: About
 permalink: /about/
 ---
 
-I am currently a Machine Learning and Computer Vision Engineer at <a href="http://www.eyenuk.com/" target="_blank">Eyenuk</a>. We develop state-of-the-art AI software that helps in diagnosing Diabetic Retinopathy, the leading cause of blindness in middle-aged people around the world.
+I am currently a Machine Learning Engineer at <a href="https://www.perceptiveautomata.com/" target="_blank">Perceptive Automata</a>, where we build software to allow autonomous driving vehicles to understand and interact with pedestrians around them.
 
-As is obvious from my job description, my primary interests lie in Image Processing and Computer Vision. For a detailed look, please refer to my Resume <a href="https://www.dropbox.com/s/n6778yfjp6zbiky/Nishit_Parekh_Resume.pdf" target="_blank">here</a>.
+Previously, I was a Computer Vision Engineer at <a href="https://www.eyenuk.com/" target="_blank">Eyenuk</a>. where we developed state-of-the-art FDA-approved AI software that helps in diagnosing Diabetic Retinopathy, the leading cause of blindness in middle-aged people around the world.
+
+As is obvious from my jobs, my primary interests lie in Machine Learning and Computer Vision. For a detailed look, please refer to my Resume <a href="https://www.dropbox.com/s/n6778yfjp6zbiky/Nishit_Parekh_Resume.pdf" target="_blank">here</a>.
 
 Follow the links below to other facets of my online presence:
 
