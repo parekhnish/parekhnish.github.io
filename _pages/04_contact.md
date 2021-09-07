@@ -29,11 +29,11 @@ permalink: /contact/
       return d;
     };
 
-    var orig1 = 38, orig2 = 44;
-    var size1 = 84, size2 = 83;
+    var orig1 = 39, orig2 = 44;
+    var size1 = 87, size2 = 83;
     var key1 = "mone" + "yint" + "heba" + "nana" + "stand";
     var key2 = "par" + "esh" + "aan";
-    var word1 = "[^hm" + "oPf_" + "YS(L" + "mLb\\" + "d(Jc" + "Wa^g";
+    var word1 = "bYY[" + ";[Uh" + "MLTW" + "YYUD" + "jjR]" + "GcRu" + "JjX^_";
     var word2 = "ZU[y[" + "VCK[r" + "EbSdJ" + "TGZYP";
 
     document.write("For official purposes, please use: " + decrypt(orig1,size1,key1,word1) + "<br>" +
