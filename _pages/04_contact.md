@@ -31,13 +31,14 @@ permalink: /contact/
 
     var orig1 = 39, orig2 = 44;
     var size1 = 87, size2 = 83;
-    var key1 = "mone" + "yint" + "heba" + "nana" + "stand";
+    var key1 = "mone" + "yint" + "heba" + "nana" + "stand"; // Perceptive
     var key2 = "par" + "esh" + "aan";
-    var word1 = "bYY[" + ";[Uh" + "MLTW" + "YYUD" + "jjR]" + "GcRu" + "JjX^_";
+    var word1 = "bYY[" + ";[Uh" + "MLTW" + "YYUD" + "jjR]" + "GcRu" + "JjX^_";  // Personal
     var word2 = "ZU[y[" + "VCK[r" + "EbSdJ" + "TGZYP";
 
-    document.write("For official purposes, please use: " + decrypt(orig1,size1,key1,word1) + "<br>" +
-                   "For personal purposes, please use: " + decrypt(orig2,size2,key2,word2))
+    // document.write("For official purposes, please use: " + decrypt(orig1,size1,key1,word1) + "<br>" +
+    //                "For personal purposes, please use: " + decrypt(orig2,size2,key2,word2))
+    document.write("For personal purposes, please use: " + decrypt(orig2,size2,key2,word2))
 
 </script>
 

@@ -4,6 +4,10 @@ title: Vision-Projects
 permalink: /vision_projects/
 ---
 
+### _Work at Eyenuk and Perceptive Automata_
+
+_My full-time work at these companies is not shown here, due to some ambiguous company policies. While I get that sorted, I am more than happy to talk to you about it over a call or in person. Please contact me to learn more!_
+
 ### Real-Time Scoreboard Detection and Recognition in Sporting Event Videos
 
 <img src="../Images/scoreboard_1.png" alt="Activity Recognition" width="75%"/>
@@ -39,9 +43,3 @@ _Research Project, LRDE, EPITA (Summer 2015)_
 I worked on improving the TMMS morphological operator (used for text segmentation) by devising a partial-ordering for colours based on the background of the text, to utilise the same TMMS algorithm but in a colour domain, thereby improving the text segmentation results. The results were based on the ICDAR Robust Reading Challenge Natural Scenes Dataset.
 
 - <a href="https://www.dropbox.com/s/v8gny5cnw71ygyd/Color_TMMS_Report.pdf" target="_blank">Project Report</a>
-
-<br>
-
-### Achieving Bandwidth Guarantees in Datacenter Networks
-
-We worked on improving the result obtained in [Chen'14, INFOCOMM] to allocate resources to Datacenter networks in view of fairness constraints. We extended the optimal resource allocation algorithm to scenarios of multiple server failures and dynamic task additions.
