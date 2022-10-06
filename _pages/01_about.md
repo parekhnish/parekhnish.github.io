@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Currently, I am a Software Engineer at <a href="https://aurora.tech" target="_blank">Aurora</a>, where we are building autonomous driving capabilities for trucks and cars, in a safe, quick, and scalable manner.
+Currently, I am a Software Engineer at <a href="https://aurora.tech/" target="_blank">Aurora</a>, where we are building autonomous driving capabilities for trucks and cars, in a safe, quick, and scalable manner.
 
 Previously, I was a Machine Learning Engineer at <a href="https://www.perceptiveautomata.com/" target="_blank">Perceptive Automata</a>, where we engineered software to allow autonomous driving vehicles to understand and interact with pedestrians around them.
 
